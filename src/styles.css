@@ -71,7 +71,7 @@ margin-right: 5px;
 }
 @media (max-width:600px){
     .title{
-        font-size: 60px;
+        font-size: 40px;
     }
     .main{
         width: 80%;
