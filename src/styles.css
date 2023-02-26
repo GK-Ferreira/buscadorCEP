@@ -69,7 +69,7 @@ margin-right: 5px;
         transform: rotateX(0);
     }
 }
-@media (max-width:740px){
+@media (max-width:600px){
     .title{
         font-size: 60px;
     }
